@@ -1,4 +1,4 @@
-# Superstore Sales Analysis – EDA & SQL Project
+# Superstore Sales Analysis – EDA & SQL & Power BI Project
 
 ## 📌 Project Overview
 This project focuses on analyzing retail sales data from the **Sample Superstore dataset**
